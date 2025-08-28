@@ -11,10 +11,15 @@ Preenchimento de formulários web com os dados da planilha.
 Interações com elementos da tela usando pyautogui (cliques, movimentos, etc).
 
 📦 Tecnologias Utilizadas
+
 Python 3
+
 Selenium
+
 PyAutoGUI
+
 Pandas
+
 OpenPyXL
 
 📁 Estrutura do Projeto
