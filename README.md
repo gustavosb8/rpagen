@@ -18,7 +18,9 @@ Pandas
 OpenPyXL
 
 📁 Estrutura do Projeto
+
 rpa-web/
+
 │
 
 ├── dados.xlsx              # Planilha com os dados a serem inseridos
