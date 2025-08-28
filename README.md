@@ -4,10 +4,15 @@
 Este projeto é um robô de automação de processos (RPA) desenvolvido em Python, que acessa um sistema web, realiza login com usuário e senha, e insere dados automaticamente a partir de uma planilha Excel.
 
 🚀 Funcionalidades
+
 Acesso automático a sistemas web via navegador.
+
 Login com credenciais fornecidas.
+
 Leitura de dados de um arquivo Excel (.xlsx).
+
 Preenchimento de formulários web com os dados da planilha.
+
 Interações com elementos da tela usando pyautogui (cliques, movimentos, etc).
 
 📦 Tecnologias Utilizadas
