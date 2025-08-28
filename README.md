@@ -35,7 +35,7 @@ rpa-web/
 
 ├── dados.xlsx              # Planilha com os dados a serem inseridos
 
-├── rpa.py                  # Script principal de automação
+├── rpagen.py                  # Script principal de automação
 
 ├── README.md               # Documentação do projeto
 
